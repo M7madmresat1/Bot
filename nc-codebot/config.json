@@ -1,0 +1,15 @@
+{
+    "token": "MTIzMjc4MDgyNTQ4MTcwNzYzMQ.GFnd_u.2xAwTsUGOQs0w2aPsKlqqhAOOSO0qZFq_hB2PE",
+    "prefix": "!", 
+    "logo":  "https://media.discordapp.net/attachments/1228804498449760318/1241494727140966520/9.png?ex=664f04d0&is=664db350&hm=48df3fa95c35041b3bc0abdb9b9782312142bae73aca1a24c4d3b4b08afb1154&=&format=webp&quality=lossless&width=676&height=676",
+    "hex_color": "#0099ff", 
+    "community_name": "Last Law Cfw", 
+    "role_access_id": "1234230114649378878",
+    "code_length": 5,
+    "numbers_in_code": true,
+
+    "database_host": "localhost",
+    "database_user": "root",
+    "database_password": "",
+    "database_base": "naornc"
+}
